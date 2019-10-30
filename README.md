@@ -1,6 +1,6 @@
 # document-array
 
-This code implements an algorithm \[1\] that computes the **document-array** (DA) for a string collection. 
+This repository contains the implementation of algorithm \[1\] that computes the **document-array** (DA) for a string collection in linear time using constant additional space. 
 
 ## Introduction
 
